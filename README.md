@@ -39,8 +39,6 @@ Email: andrewwang123118@gmail.com
   <img src="https://komarev.com/ghpvc/?username=andrxwwxng&label=Profile%20views&color=0e75b6&style=flat" alt="andrxwwxng" />
 </p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LINKS -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
