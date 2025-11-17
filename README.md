@@ -32,7 +32,7 @@ i'm always down to collaborate with other devs and makers.
 
 email: andrewwang123118@gmail.com
 
-![Snake animation](https://github.com/AndrxwWxng/AndrxwWxng/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AndrxwWxng/AndrxwWxng/blob/output/github-snake-dark.svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andrxwwxng&label=Profile%20views&color=0e75b6&style=flat" alt="andrxwwxng" />
