@@ -1,7 +1,6 @@
 ![Header](./github-header.png)
 
 ## About Me
-- 🎓 Junior in highschool
 - 💻 Passionate about cybersecurity, programming, and robotics
 - 🚀 Startup enthusiast and entrepreneur
 - 🏆 Currently participating in CTFs and working on projects!
