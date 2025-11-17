@@ -1,13 +1,13 @@
-![Header](./github-header.png)
+<h1 align="left">hello! i'm Andrew!</h1>
 
 ## About Me
-- 💻 Passionate about cybersecurity, programming, and robotics
-- 🚀 Startup enthusiast and entrepreneur
-- 🏆 Currently participating in CTFs and working on projects!
-- 🔗 Check out my website: https://www.andrew-wang.me/
+- passionate about cybersecurity, programming, and robotics
+- startup enthusiast and entrepreneur
+- currently participating in CTFs and working on projects!
+- check out my website: https://www.andrew-wang.me/
 
 ## My Tech Stack
-These are some of the tools I work with!
+these are some of the tools i work with!
 
 [![React][React.js]][React-url]
 [![Next.js][Next.js]][Next-url]
@@ -26,13 +26,13 @@ These are some of the tools I work with!
 [![FastAPI][FastAPI]][FastAPI-url]
 
 ## Let's Connect!
-Got a cool project idea? Want to team up for a competition? Or just want to chat? Shoot me a email! 
+got a cool project idea? want to team up for a competition? or just want to chat? shoot me a email! 
 
-I'm always down to collaborate with other devs and makers.
+i'm always down to collaborate with other devs and makers.
 
-Email: andrewwang123118@gmail.com
+email: andrewwang123118@gmail.com
 
-![github-user-contribution](https://github.com/user-attachments/assets/3d8f168b-d466-40d6-85dc-94a60071adbd)
+![Snake animation](https://github.com/AndrxwWxng/AndrxwWxng/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andrxwwxng&label=Profile%20views&color=0e75b6&style=flat" alt="andrxwwxng" />
