@@ -16,7 +16,9 @@ jobs:
           github_user_name: AndrxwWxng
           outputs: |
             dist/github-contribution-grid-snake.svg
-          theme: dark
+          palette: github
+          color_snake: blue
+          color_dots: blue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
