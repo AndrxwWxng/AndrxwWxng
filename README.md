@@ -1,13 +1,13 @@
 <h1 align="left">hello! i'm Andrew!</h1>
 
 ## About Me
-- passionate about cybersecurity, programming, and robotics
-- startup enthusiast and entrepreneur
-- currently participating in CTFs and working on projects!
+- passionate about cybersecurity, programming, + robotics
+- startup enthusiast + entrepreneur
+- currently building @ https://klinn.works/
 - check out my website: https://www.andrew-wang.me/
 
 ## My Tech Stack
-these are some of the tools i work with!
+some stuff i work with!
 
 [![React][React.js]][React-url]
 [![Next.js][Next.js]][Next-url]
@@ -26,9 +26,7 @@ these are some of the tools i work with!
 [![FastAPI][FastAPI]][FastAPI-url]
 
 ## Let's Connect!
-got a cool project idea? want to team up for a competition? or just want to chat? shoot me a email! 
-
-i'm always down to collaborate with other devs and makers.
+shoot me a email! 
 
 email: andrewwang123118@gmail.com
 
